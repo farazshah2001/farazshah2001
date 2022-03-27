@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @farazshah2001 a Full Stack web and mobile developer having expertise in MERN / JAM Stack and React Native
